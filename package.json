@@ -2,9 +2,9 @@
   "name": "home",
   "version": "1.0.0",
   "description": "A Node.js application using Express and Firebase",
-  "main": "db.js",
+  "main": "server.js",
   "scripts": {
-    "start": "node db.js"
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "Your Name",
